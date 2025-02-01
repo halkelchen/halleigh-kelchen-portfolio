@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! I'm a Data Scientist with expertise in machine learning, bioinformatics, and computational biology. 
 
-## Projects
+## Projects Overview
 📌 **TWAS Analysis** – Transcriptome-Wide Association Study using MetaXcan.  
 📌 **Machine Learning Models** – Supervised learning applications.  
 📌 **Data Visualization** – Insights from bioinformatics,crime, and healthcare data.  
@@ -13,16 +13,17 @@ Welcome to my portfolio! I'm a Data Scientist with expertise in machine learning
 - Bioinformatics & Computational Biology
 - SQL & Tableau
 
-## Branch Structure
+## Visualization Projects
+- Medicare D Spending Visualization
+- Places of Worship Visualization
+- Zillow Market FL
+- NYPD Crime Analysis
+- LA Crime Analysis
 
-This repository contains multiple branches for different projects:
-
-- `main` - The main portfolio branch.
-- `Airport-Flight-Data-SQL` - SQL analysis of airport flight data.
-- `TWAS-Analysis` - Transcriptome-Wide Association Study (TWAS) results.
-- `Data-Visualization-Python` - Various data visualization projects using Python.
-- `Machine-Learning-Models` - Machine learning experiments and models.
-
-Use `git checkout <branch-name>` to switch between branches.
+## Predictive Modeling Projects
+- Multilayered Perceptrons for Regression
+- Milk Quality Prediction
+- Airport Flight Data SQL
+- TWAS (Transcriptome-Wide Association Study)
 
 🔗 **[LinkedIn](https://linkedin.com/in/halleigh-kelchen)** | ✉️ kelchenhalleigh@gmail.com
