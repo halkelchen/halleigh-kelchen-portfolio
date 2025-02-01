@@ -13,7 +13,7 @@ Welcome to my portfolio! I'm a Data Scientist with expertise in machine learning
 - Bioinformatics & Computational Biology
 - SQL & Tableau
 
-##Branch Structure
+## Branch Structure
 📂 main
 ├── 📂 Airport-Flight-Data-SQL
 ├── 📂 TWAS-Analysis
