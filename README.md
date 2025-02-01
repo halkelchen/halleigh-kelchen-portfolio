@@ -4,8 +4,8 @@ Welcome to my portfolio! I'm a Data Scientist with expertise in machine learning
 
 ## Projects
 📌 **TWAS Analysis** – Transcriptome-Wide Association Study using MetaXcan.  
-📌 **Machine Learning Models** – Supervised learning applications in healthcare.  
-📌 **Data Visualization** – Insights from bioinformatics and healthcare data.  
+📌 **Machine Learning Models** – Supervised learning applications.  
+📌 **Data Visualization** – Insights from bioinformatics,crime, and healthcare data.  
 
 ## Skills
 - Python (Pandas, NumPy, Scikit-learn, TensorFlow)
